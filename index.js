@@ -12,3 +12,5 @@ var sub=function(x,y){
 console.log("Subtract is "+sub(5,4));
 
 //ES6
+
+const mod;
